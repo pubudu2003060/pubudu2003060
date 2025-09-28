@@ -65,7 +65,7 @@ I’m open to collaborating on:
 
 ## 📫 Reach Me  
 📧 **Email:** madhushanpubudu2@gmail.com  
-🔗 **LinkedIn:** [Pubudu Madushan](www.linkedin.com/in/pubudu-madhushan-0b0621292)  
+🔗 **LinkedIn:** [Pubudu Madushan](https://www.linkedin.com/in/pubudu-madhushan-0b0621292)  
 🐙 **GitHub:** [pubudu2003060](https://github.com/pubudu2003060)  
 🌐 **Portfolio:** [pubudu-madushan.netlify.app](https://pubudu-madhushan.netlify.app/)  
 
